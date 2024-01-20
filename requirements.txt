@@ -29,7 +29,7 @@ pure-eval==0.2.2
 Pygments==2.17.2
 python-dateutil==2.8.2
 python-dotenv==1.0.0
-pywin32==306
+pywin32==306; platform_system=="Windows"
 pyzmq==25.1.2
 requests==2.31.0
 six==1.16.0
